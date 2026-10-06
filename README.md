@@ -24,34 +24,33 @@
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
 ## 🧠 About Me
 
 I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on building intelligent, production-oriented AI systems.
 
-- 🔭 Currently building **enterprise AI applications using Retrieval-Augmented Generation (RAG)**
-- 🤖 Interested in **LLMs, RAG, Agentic AI & Generative AI**
-- 🧠 Exploring **LLM fine-tuning, retrieval optimization & AI system architecture**
-- ⚙️ Experienced with **end-to-end ML pipelines and model deployment**
+- 🔭 Building **enterprise AI applications using Retrieval-Augmented Generation (RAG)**
+- 🤖 Exploring **LLMs, Agentic AI, Generative AI & intelligent retrieval systems**
+- 🧠 Working with **LLM fine-tuning, QLoRA, PEFT & Transformer architectures**
+- 🔎 Building **hybrid retrieval pipelines using semantic + lexical search**
+- ⚙️ Experienced with **end-to-end machine learning pipelines and deployment**
 - 📊 Strong foundation in **Machine Learning, Data Science, Python & SQL**
-- 🚀 Interested in building **scalable, production-grade AI systems**
+- 🚀 Interested in **scalable, production-grade AI systems**
 - 🤝 Open to collaborating on **GenAI, RAG, LLM & open-source ML projects**
-- 📫 Reach me at **ayushbhagat444@gmail.com**
+- 📫 **ayushbhagat444@gmail.com**
 
 > **From classical machine learning to enterprise AI assistants — I enjoy turning data into intelligent systems.**
 
 ---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
-
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🤖 Generative AI
+
 - Retrieval-Augmented Generation
 - LLM Applications
 - Prompt Engineering
@@ -64,20 +63,24 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 <td width="50%">
 
 ### 🧠 AI Engineering
+
 - Hybrid Search
 - Vector Databases
 - Semantic Retrieval
+- BM25
 - Reranking
 - Agentic AI
-- Production AI Systems
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 📊 Machine Learning
+
 - Supervised Learning
 - Unsupervised Learning
 - Feature Engineering
@@ -89,31 +92,33 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 
 <td width="50%">
 
-### ⚙️ MLOps
+### ⚙️ MLOps & Deployment
+
 - Docker
 - Kubernetes
 - MLflow
-- Airflow
+- Apache Airflow
 - Flask
 - Streamlit
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
-### AI / Machine Learning
+**SQL • Python**
+
+### 🤖 AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
@@ -121,7 +126,9 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 <img src="https://cdn.simpleicons.org/huggingface" height="48"/>
 </p>
 
-### GenAI / LLM
+**Scikit-learn • TensorFlow • Keras • PyTorch • Transformers • OpenCV**
+
+### 🧠 Generative AI & LLM
 
 <p>
 <img src="https://cdn.simpleicons.org/langchain" height="48"/>
@@ -129,9 +136,9 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 <img src="https://cdn.simpleicons.org/google" height="48"/>
 </p>
 
-**RAG • Transformers • Embeddings • Vector Search • Hybrid Retrieval • BM25 • Reranking • QLoRA • PEFT**
+**RAG • LLMs • Embeddings • Vector Search • Hybrid Retrieval • BM25 • Reranking • QLoRA • PEFT**
 
-### Data Science
+### 📊 Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=numpy,pandas" />
@@ -139,15 +146,17 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 <img src="https://cdn.simpleicons.org/plotly" height="48"/>
 </p>
 
-### Databases
+**NumPy • Pandas • Matplotlib • Seaborn • Plotly**
+
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
 
-**ChromaDB • Vector Databases • SQL**
+**PostgreSQL • Redis • ChromaDB • Vector Databases**
 
-### MLOps & Deployment
+### ⚙️ MLOps & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
@@ -155,7 +164,9 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 <img src="https://cdn.simpleicons.org/apacheairflow" height="48"/>
 </p>
 
-### Frameworks & Tools
+**Docker • Kubernetes • MLflow • Airflow • Git • GitHub**
+
+### 🚀 Frameworks & Applications
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
@@ -163,17 +174,15 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 
 ---
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
+# ⭐ Featured Projects
 
-## ⭐ Featured Projects
-
-### 🤖 Enterprise AI Knowledge Assistant
+## 🤖 Enterprise AI Knowledge Assistant
 
 **RAG • LLM • Hybrid Retrieval • ChromaDB • BM25 • Reranking**
 
 Enterprise document-based AI assistant designed to retrieve relevant organizational knowledge before generating grounded LLM responses.
 
-**Key components:**
+### Key Features
 
 - 🔎 Hybrid semantic + lexical retrieval
 - 🧠 Embedding-based semantic search
@@ -184,11 +193,13 @@ Enterprise document-based AI assistant designed to retrieve relevant organizatio
 - 🔐 Query classification & RBAC
 - 🧩 Grounded response synthesis
 
+**My contribution:** RAG retrieval layer and retrieval pipeline architecture.
+
 🔗 **[View Project →](https://github.com/Ayushx29/Infosys-AI-Knowledge-Assistant-Enterprise-GPT)**
 
 ---
 
-### ✈️ Voyage Analytics
+## ✈️ Voyage Analytics
 
 **Machine Learning • MLOps • Travel Analytics • Production ML**
 
@@ -196,85 +207,81 @@ End-to-end travel analytics and machine learning system integrating travel data 
 
 **Tech:** Python • MLflow • Docker • Airflow • Flask • Streamlit
 
-🔗 **[View Project →](https://github.com/Ayushx29)**
+🔗 **[Explore Repository →](https://github.com/Ayushx29)**
 
 ---
 
-### 🛡️ Fraud Detection System
+## 🛡️ Fraud Detection System
 
 **Supervised Learning • Classification • Model Evaluation**
 
-Machine learning system for identifying fraudulent transactions using supervised classification techniques and model evaluation.
+Machine learning system for detecting fraudulent transactions using supervised classification techniques, feature engineering and model evaluation.
 
 **Tech:** Python • Pandas • Scikit-learn • XGBoost • SMOTE
 
-🔗 **[View Project →](https://github.com/Ayushx29)**
+🔗 **[Explore Repository →](https://github.com/Ayushx29)**
 
 ---
 
-### 🎵 Music Recommendation System
+## 🎵 Music Recommendation System
 
 **Machine Learning • CatBoost • Recommendation Systems**
 
-Recommendation system designed to generate personalized music recommendations using machine learning techniques.
+Machine learning-based recommendation system designed to generate personalized music recommendations.
 
 **Tech:** Python • Pandas • CatBoost • Scikit-learn
 
-🔗 **[View Project →](https://github.com/Ayushx29)**
+🔗 **[Explore Repository →](https://github.com/Ayushx29)**
 
 ---
 
-### 🏎️ F1 Race Prediction
+## 🏎️ F1 Race Prediction
 
 **Machine Learning • XGBoost • FastF1**
 
-Machine learning pipeline for Formula 1 race prediction using historical race and driver performance data.
+Machine learning pipeline for predicting Formula 1 race outcomes using historical race and driver performance data.
 
 **Tech:** Python • XGBoost • FastF1 • Pandas • Scikit-learn
 
-🔗 **[View Project →](https://github.com/Ayushx29)**
+🔗 **[Explore Repository →](https://github.com/Ayushx29)**
 
 ---
 
-### 🧠 Handwritten Equation Solver
+## 🧠 Handwritten Equation Solver
 
 **Deep Learning • CNN • Computer Vision**
 
-Deep learning application capable of recognizing handwritten mathematical expressions using convolutional neural networks.
+Deep learning application for recognizing handwritten mathematical expressions using convolutional neural networks.
 
 **Tech:** Python • TensorFlow • Keras • CNN • OpenCV
 
-🔗 **[View Project →](https://github.com/Ayushx29)**
+🔗 **[Explore Repository →](https://github.com/Ayushx29)**
 
 ---
 
-## 📌 More Projects
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Ayushx29?tab=repositories">
 <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushx29&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayushx29&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushx29&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushx29&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -284,7 +291,7 @@ Deep learning application capable of recognizing handwritten mathematical expres
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -294,9 +301,7 @@ Deep learning application capable of recognizing handwritten mathematical expres
 
 ---
 
-<!-- ======================= TROPHIES ======================= -->
-
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -306,41 +311,34 @@ Deep learning application capable of recognizing handwritten mathematical expres
 
 ---
 
-<!-- ======================= CONTRIBUTION SNAKE ======================= -->
-
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayushx29/Ayushx29/output/github-contribution-grid-snake.svg" />
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ayushx29/Ayushx29/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ayushx29/Ayushx29/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Ayushx29/Ayushx29/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
 
 ---
 
-<!-- ======================= GITHUB PROFILE ======================= -->
-
-## 💻 GitHub Profile
-
-<div align="center">
-
-<a href="https://github.com/Ayushx29">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushx29&show_icons=true&hide_border=true&theme=transparent&custom_title=Ayush%20Bhagat%27s%20GitHub%20Overview" />
-
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ayushx29&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-<!-- ======================= CONNECT ======================= -->
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
