@@ -118,35 +118,39 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 
 **SQL • Python**
 
+---
+
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-<img src="https://cdn.simpleicons.org/keras" height="48"/>
-<img src="https://cdn.simpleicons.org/huggingface" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 </p>
 
 **Scikit-learn • TensorFlow • Keras • PyTorch • Transformers • OpenCV**
 
+---
+
 ### 🧠 Generative AI & LLM
 
 <p>
-<img src="https://cdn.simpleicons.org/langchain" height="48"/>
-<img src="https://cdn.simpleicons.org/openai" height="48"/>
-<img src="https://cdn.simpleicons.org/google" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
+**LangChain • Hugging Face • OpenAI • Gemini**
+
 **RAG • LLMs • Embeddings • Vector Search • Hybrid Retrieval • BM25 • Reranking • QLoRA • PEFT**
+
+---
 
 ### 📊 Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-<img src="https://cdn.simpleicons.org/jupyter" height="48"/>
-<img src="https://cdn.simpleicons.org/plotly" height="48"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter" />
 </p>
 
 **NumPy • Pandas • Matplotlib • Seaborn • Plotly**
+
+---
 
 ### 🗄️ Databases
 
@@ -156,15 +160,17 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 
 **PostgreSQL • Redis • ChromaDB • Vector Databases**
 
+---
+
 ### ⚙️ MLOps & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
-<img src="https://cdn.simpleicons.org/mlflow" height="48"/>
-<img src="https://cdn.simpleicons.org/apacheairflow" height="48"/>
 </p>
 
-**Docker • Kubernetes • MLflow • Airflow • Git • GitHub**
+**Docker • Kubernetes • MLflow • Apache Airflow • Git • GitHub**
+
+---
 
 ### 🚀 Frameworks & Applications
 
@@ -172,6 +178,7 @@ I'm a **Data Scientist and GenAI / Machine Learning Engineer** focused on buildi
 <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
 </p>
 
+**FastAPI • Flask • Streamlit**
 ---
 
 # ⭐ Featured Projects
@@ -289,25 +296,7 @@ Deep learning application for recognizing handwritten mathematical expressions u
 
 </div>
 
----
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushx29&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushx29&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
 
 ---
 
